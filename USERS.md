@@ -41,6 +41,7 @@ Here's a running list of some organizations using GoReleaser[^1]:
 1. [GitGuardian](https://gitguardian.com)
 1. [GitHub](https://github.com)
 1. [Gitleaks](https://gitleaks.io)
+1. [grlx](https://grlx.dev)
 1. [Go Buffalo](https://gobuffalo.io)
 1. [GolangCI](https://golangci.com)
 1. [Goldenhand Software](https://www.goldenhandsoftware.co.uk)
